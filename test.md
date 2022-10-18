@@ -1,1 +1,1 @@
-$$\<script>{&lt;button&gt;Test Button&lt;/button&gt;<!--}$$
+$$\<script>{&lt;textarea&gt;Write something...&lt;/textarea&gt;<!--}$$
